@@ -2,7 +2,7 @@
 The objective of this problem is to visualize various collections of data
 geolocated on a map, using `fltk`. We will rely for this on publicly available data
 available, for example on the government site dedicated to “open data”, [data.gouv.fr](http://data.gouv.fr).
-## Exemple
+## Example
 
 Here is a screenshot showing a prototype of this program :
 
